@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "887730738767",
+    "project_id": "firestoref55122024",
+    "storage_bucket": "firestoref55122024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887730738767:android:eb4bc63bf75a9ca2b73c3a",
+        "android_client_info": {
+          "package_name": "com.azhar.firebasefirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd4EGZNj_9CqDlr3WuF9CNiiISPBgVlnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
